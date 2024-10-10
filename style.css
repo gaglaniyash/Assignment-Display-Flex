@@ -1,0 +1,229 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+
+* {
+    font-family: 'ubuntu', sans-serif;
+    text-decoration: none;
+}
+
+.heading {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+}
+
+.main1 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+    margin-bottom: 10px;
+}
+
+#box {
+    height: 375px;
+    width: 22%;
+    background-image: url("https://masai-website-images.s3.ap-south-1.amazonaws.com/prateek_6232b84d8b.jpeg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    border: 1px solid;
+    border-radius: 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content:flex-end;
+    align-items: center;
+}
+
+#box2 {
+    height: 375px;
+    width: 22%;
+    background-image: url("https://masai-website-images.s3.ap-south-1.amazonaws.com/Nrupul_d3fe3b289a.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border: 1px solid;
+    border-radius: 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content:flex-end;
+    align-items: center;
+}
+
+#box3 {
+    height: 375px;
+    width: 22%;
+    background-image: url("https://masai-website-images.s3.ap-south-1.amazonaws.com/Yogesh_52e31f5560.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border: 1px solid;
+    border-radius: 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content:flex-end;
+    align-items: center;
+}
+
+#name {
+    margin: 5px;
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+#position {
+    margin: 7px;
+    color: white;
+    font-size: 16px;
+}
+
+.fa-brands {
+    margin: 15px;
+}
+
+#box4 {
+    height: 375px;
+    width: 22%;
+    background-image: url("https://masai-website-images.s3.ap-south-1.amazonaws.com/keshav_misra_203a893693.jpeg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border: 1px solid;
+    border-radius: 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content:flex-end;
+    align-items: center;
+}
+
+#box5 {
+    height: 375px;
+    width: 22%;
+    background-image: url("https://masai-website-images.s3.ap-south-1.amazonaws.com/1614198786109_Ishita_Chanana_d3d8c56ab0.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border: 1px solid;
+    border-radius: 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content:flex-end;
+    align-items: center;
+}
+
+#box6 {
+    height: 375px;
+    width: 22%;
+    background-image: url("https://masai-website-images.s3.ap-south-1.amazonaws.com/amit_saharan_copy_Amit_Kumar_0650e4da7d.png");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border: 1px solid;
+    border-radius: 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content:flex-end;
+    align-items: center;
+}
+
+#box7 {
+    height: 375px;
+    width: 22%;
+    background-image: url("https://masai-website-images.s3.ap-south-1.amazonaws.com/aman_fbbc8625a4.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border: 1px solid;
+    border-radius: 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content:flex-end;
+    align-items: center;
+}
+
+#box8 {
+    height: 375px;
+    width: 22%;
+    background-image: url("https://masai-website-images.s3.ap-south-1.amazonaws.com/Mohammed_Mayan_1_5da12dc153.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border: 1px solid;
+    border-radius: 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content:flex-end;
+    align-items: center;
+}
+
+#box9 {
+    height: 375px;
+    width: 22%;
+    background-image: url("https://masai-website-images.s3.ap-south-1.amazonaws.com/Anurag_Singh_996e7426ac.JPG");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border: 1px solid;
+    border-radius: 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content:flex-end;
+    align-items: center;
+}
+
+#box10 {
+    height: 375px;
+    width: 22%;
+    background-image: url("https://masai-website-images.s3.ap-south-1.amazonaws.com/IMG_2262_Kishore_Acharya_098d2f5a9c.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border: 1px solid;
+    border-radius: 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content:flex-end;
+    align-items: center;
+}
+
+#box11 {
+    height: 375px;
+    width: 22%;
+    background-image: url("https://masai-website-images.s3.ap-south-1.amazonaws.com/Rohit_Gupta_23dba08fbe.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border: 1px solid;
+    border-radius: 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content:flex-end;
+    align-items: center;
+}
+
+#box12 {
+    height: 375px;
+    width: 22%;
+    background-image: url("https://masai-website-images.s3.ap-south-1.amazonaws.com/Mayank_Bhardwaj_46e9eaae75.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border: 1px solid;
+    border-radius: 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content:flex-end;
+    align-items: center;
+}
+
+.main > div {
+    flex: 1 1 calc(25% - 20px); /* Each box takes up approximately 30% of the width, minus margin */
+    margin: 10px;             /* Space between boxes */
+    box-sizing: border-box;    /* Include padding and border in width */
+    padding: 20px;            /* Optional padding for visual appeal */
+    background-color: #f0f0f0; /* Background color for boxes */
+    text-align: center;
+}
